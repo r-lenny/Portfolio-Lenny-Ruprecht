@@ -1,0 +1,7 @@
+Je suis un développeur front-end passionné et expérimenté, spécialisé dans la création d'interfaces utilisateur exceptionnelles pour des sites Web et des applications. Avec des années d'expérience dans le domaine, je travail principalement avec HTML, CSS et JavaScript, ainsi qu'avec des frameworks tels que React, Vue.js et Angular en tant que Junior.
+
+Je suis un fervent partisan de la conception centrée sur l'utilisateur et je m'efforce toujours de créer des expériences utilisateur qui soient intuitives, efficaces et agréables à utiliser. Mon approche consiste à travailler en étroite collaboration avec les designers et les développeurs backend pour créer des interfaces qui soient à la fois esthétiques et fonctionnelles.
+
+En tant que développeur front-end, je suis également compétent dans l'utilisation d'outils tels que Git pour faciliter la collaboration avec les autres membres de l'équipe de développement et pour optimiser les performances de mes projets.
+
+Je suis constamment à la recherche de nouvelles technologies et de nouvelles méthodologies pour améliorer ma pratique et offrir des solutions innovantes à mes clients. Si vous cherchez un développeur front-end dédié et passionné pour votre prochain projet, n'hésitez pas à me contacter.

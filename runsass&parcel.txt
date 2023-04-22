@@ -1,0 +1,26 @@
+1. Init le package .json
+
+Npm init
+
+2.installer le sass
+
+sudo npm install -g sass
+
+3. Insérer dans le .json 
+
+"sass": "sass --watch ./scss/main.scss:./css/style.css"
+
+4. Run le sass
+
+npm run sass
+
+------parcel-------
+
+npm init -y (initialise npm)
+
+npm i -g parcel-bundler (installe parcel)
+
+parcel index.html (lancer localhost)
+
+parcel build index.html (build avant mise en ligne)
+

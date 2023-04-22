@@ -1,0 +1,41 @@
+.hamburger {
+  display: flex;
+  z-index: 100;
+  width: 3rem;
+  height: 3rem;
+  padding: 4px;
+  cursor: pointer;
+}
+
+.menuIcon {
+  height: 3rem;
+  width: 3rem;
+}
+
+.closeIcon {
+  display: none;
+  position: fixed;
+  z-index: 50;
+  height: 2rem;
+  width: 2rem;
+}
+
+.menu {
+  position: absolute;
+  transform: translateX(100%);
+  transition: transform .5s;
+  top: 0;
+  right: 0;
+  height: 100vh;
+  width: 100vw;
+  z-index: 99;
+  background: #E9E1D3;
+  color: black;
+  list-style: none;
+  overflow: hidden;
+  overflow-y: scroll;
+}
+
+.showMenu {
+  transform: translateY(0);
+}

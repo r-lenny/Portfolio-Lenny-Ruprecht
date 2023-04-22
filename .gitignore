@@ -125,3 +125,12 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Parcel cache directory
+.cache/
+
+# Parcel compiled files
+dist/
+
+# Ignore package-lock.json file
+package-lock.json

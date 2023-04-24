@@ -364,7 +364,7 @@ nav {
   gap: 4vmin;
   position: absolute;
   left: 50%;
-  top: 110%;
+  top: 70%;
   transform: translate(0%, -50%);
   user-select: none;
   /* -- Prevent image highlighting -- */
